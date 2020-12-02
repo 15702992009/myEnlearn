@@ -1,4 +1,9 @@
-# What`s the project for ?
- This project is used to push me  remember the saw vocabularies learned in my daily life when surfing on Internet. 
+# 项目介绍
 
+## 电影
 
+1. 记录喜欢的国外电影字幕中不懂的单词
+
+## 单词
+
+1. 每日增加50个新单词
